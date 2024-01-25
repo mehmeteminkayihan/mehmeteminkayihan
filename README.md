@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Emin</h1>
 <h3 align="center">Someone who works in game development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmeteminkayihan&label=Profile%20views&color=0cc631&style=flat" alt="mehmeteminkayihan" /> </p>
+
 
 - 🌱 I’m currently learning **Unreal Engine 4**
 
@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmeteminkayihan&show_icons=true&locale=en" alt="mehmeteminkayihan" /></p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmeteminkayihan&label=Profile%20views&color=0cc631&style=flat" alt="mehmeteminkayihan" /> </p>
