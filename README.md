@@ -1,4 +1,4 @@
-[![MasterHead]](https://www.linkedin.com/in/mehmet-emin-kay%C4%B1han-287313237/overlay/background-image/)
+
 <h1 align="center">Hi 👋, I'm Mehmet Emin</h1>
 <h3 align="center">Someone who works in game development</h3>
 
