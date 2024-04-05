@@ -21,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmeteminkayihan&show_icons=true&locale=en" alt="mehmeteminkayihan" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmeteminkayihan&label=Profile%20views&color=0cc631&style=flat" alt="mehmeteminkayihan" /> </p>
