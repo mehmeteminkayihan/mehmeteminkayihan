@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Unreal Engine 4**
+- 🌱 I’m currently learning **Unreal Engine 5**
 
 - 📫 How to reach me **mehmetemin.kyhn@gmail.com**
 
